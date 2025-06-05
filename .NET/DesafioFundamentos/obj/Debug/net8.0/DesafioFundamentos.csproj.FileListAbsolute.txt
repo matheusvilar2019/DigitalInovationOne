@@ -1,0 +1,14 @@
+D:\DIO\DOTNET\DesafioFundamentos\bin\Debug\net8.0\DesafioFundamentos.exe
+D:\DIO\DOTNET\DesafioFundamentos\bin\Debug\net8.0\DesafioFundamentos.deps.json
+D:\DIO\DOTNET\DesafioFundamentos\bin\Debug\net8.0\DesafioFundamentos.runtimeconfig.json
+D:\DIO\DOTNET\DesafioFundamentos\bin\Debug\net8.0\DesafioFundamentos.dll
+D:\DIO\DOTNET\DesafioFundamentos\bin\Debug\net8.0\DesafioFundamentos.pdb
+D:\DIO\DOTNET\DesafioFundamentos\obj\Debug\net8.0\DesafioFundamentos.GeneratedMSBuildEditorConfig.editorconfig
+D:\DIO\DOTNET\DesafioFundamentos\obj\Debug\net8.0\DesafioFundamentos.AssemblyInfoInputs.cache
+D:\DIO\DOTNET\DesafioFundamentos\obj\Debug\net8.0\DesafioFundamentos.AssemblyInfo.cs
+D:\DIO\DOTNET\DesafioFundamentos\obj\Debug\net8.0\DesafioFundamentos.csproj.CoreCompileInputs.cache
+D:\DIO\DOTNET\DesafioFundamentos\obj\Debug\net8.0\DesafioFundamentos.dll
+D:\DIO\DOTNET\DesafioFundamentos\obj\Debug\net8.0\refint\DesafioFundamentos.dll
+D:\DIO\DOTNET\DesafioFundamentos\obj\Debug\net8.0\DesafioFundamentos.pdb
+D:\DIO\DOTNET\DesafioFundamentos\obj\Debug\net8.0\DesafioFundamentos.genruntimeconfig.cache
+D:\DIO\DOTNET\DesafioFundamentos\obj\Debug\net8.0\ref\DesafioFundamentos.dll
