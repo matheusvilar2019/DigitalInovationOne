@@ -1,0 +1,14 @@
+D:\DIO\DOTNET\trilha-net-explorando-desafio-main\bin\Debug\net8.0\trilha-net-explorando-desafio-main.exe
+D:\DIO\DOTNET\trilha-net-explorando-desafio-main\bin\Debug\net8.0\trilha-net-explorando-desafio-main.deps.json
+D:\DIO\DOTNET\trilha-net-explorando-desafio-main\bin\Debug\net8.0\trilha-net-explorando-desafio-main.runtimeconfig.json
+D:\DIO\DOTNET\trilha-net-explorando-desafio-main\bin\Debug\net8.0\trilha-net-explorando-desafio-main.dll
+D:\DIO\DOTNET\trilha-net-explorando-desafio-main\bin\Debug\net8.0\trilha-net-explorando-desafio-main.pdb
+D:\DIO\DOTNET\trilha-net-explorando-desafio-main\obj\Debug\net8.0\trilha-net-explorando-desafio-main.GeneratedMSBuildEditorConfig.editorconfig
+D:\DIO\DOTNET\trilha-net-explorando-desafio-main\obj\Debug\net8.0\trilha-net-explorando-desafio-main.AssemblyInfoInputs.cache
+D:\DIO\DOTNET\trilha-net-explorando-desafio-main\obj\Debug\net8.0\trilha-net-explorando-desafio-main.AssemblyInfo.cs
+D:\DIO\DOTNET\trilha-net-explorando-desafio-main\obj\Debug\net8.0\trilha-net-explorando-desafio-main.csproj.CoreCompileInputs.cache
+D:\DIO\DOTNET\trilha-net-explorando-desafio-main\obj\Debug\net8.0\trilha-net-explorando-desafio-main.dll
+D:\DIO\DOTNET\trilha-net-explorando-desafio-main\obj\Debug\net8.0\refint\trilha-net-explorando-desafio-main.dll
+D:\DIO\DOTNET\trilha-net-explorando-desafio-main\obj\Debug\net8.0\trilha-net-explorando-desafio-main.pdb
+D:\DIO\DOTNET\trilha-net-explorando-desafio-main\obj\Debug\net8.0\trilha-net-explorando-desafio-main.genruntimeconfig.cache
+D:\DIO\DOTNET\trilha-net-explorando-desafio-main\obj\Debug\net8.0\ref\trilha-net-explorando-desafio-main.dll
