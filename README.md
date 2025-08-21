@@ -18,3 +18,8 @@ https://github.com/matheusvilar2019/DigitalInovationOne/tree/main/Java/lab-padro
 
 ### Criando um Jogo do Sudoku em Java
 https://github.com/matheusvilar2019/DigitalInovationOne/tree/main/Java/sudoku
+
+# AWS
+
+### Redução de Custos em Farmácias com AWS
+https://github.com/matheusvilar2019/DigitalInovationOne/tree/main/AWS/Redu%C3%A7%C3%A3o%20de%20Custos%20em%20Farm%C3%A1cias%20com%20AWS
